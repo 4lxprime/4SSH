@@ -3,7 +3,6 @@ clear
 echo -e " "
 GREEN='\033[0;32m'
 NC='\033[0m'
-RED='\033[0;31m'
 echo -e "${GREEN}      ${NC}██${GREEN}╗  ${NC}██${GREEN}╗${NC}███████${GREEN}╗${NC}███████${GREEN}╗${NC}██${GREEN}╗  ${NC}██${GREEN}╗          8888      "
 echo -e "${GREEN}      ${NC}██${GREEN}║  ${NC}██${GREEN}║${NC}██${GREEN}╔════╝${NC}██${GREEN}╔════╝${NC}██${GREEN}║  ${NC}██${GREEN}║         88 88      "
 echo -e "${GREEN}      ${NC}███████${GREEN}║${NC}███████${GREEN}╗${NC}███████${GREEN}╗${NC}███████${GREEN}║        88  88 TOOLS"
