@@ -7,3 +7,8 @@ cd 4SSH/
 chmod +x install.sh
 ./install.sh
 ```
+# How to run 4SSH : 
+```
+chmod +x 4SSH.sh
+./4SSH.sh
+```
